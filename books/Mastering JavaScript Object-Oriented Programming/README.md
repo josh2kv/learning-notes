@@ -6,7 +6,7 @@
 -   출판년도: 2016년 6월
 -   추가정보: [Amazon Link](https://www.amazon.com/Mastering-JavaScript-Object-Oriented-Programming-Chiarelli/dp/1785889109)
 
-## 목차
+## Table of Contents
 
 1. A Refresher of Objects
 2. Diving into OOP Principles
