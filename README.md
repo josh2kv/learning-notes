@@ -1,6 +1,6 @@
 # Learning Notes
 
-배운 것들 중 정리하여 기억해야할 것 같은 것들을 모아두는 공간
+공부 중 정리하여 기억해야할 것 같은 것들을 모아두는 공간
 
 ## Books
 
@@ -9,3 +9,5 @@
 ## Articles
 
 ## Videos
+
+-   [Redux] - The Best Explanation of How it Works (Without React) by **Stephen Grider**, 2018
