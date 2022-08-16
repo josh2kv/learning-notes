@@ -46,15 +46,17 @@ for (let x of new Range(1, 10)) {
 [...new Range(-2, 2)]; // => [-2, -1, 0, 1, 2]
 
 function map(iterable, f) {
-    let iterator = iterable[Symbol.iterator]();
-
+    let iterator /*2️⃣*/ = iterable[Symbol.iterator](); /*1️⃣*/
+    /*3️⃣*/
     return {
         // This object is both iterator and iterable
         [Symbol.iterator]() {
+            /*4️⃣*/
             return this;
         },
 
         next() {
+            /*5️⃣*/ /* 5️⃣ ~ 6️⃣ 반복 */
             let v = iterator.next();
             if (v.done) {
                 return v;
@@ -67,7 +69,9 @@ function map(iterable, f) {
     };
 }
 
-[...map(new Range(1, 4), (x) => x * x)]; // => [1, 4, 9, 16]
+const range1to4 = new Range(1, 4);
+const mapResult = [...map(range1to4, /*6️⃣*/ (x) => x * x)]; // => [1, 4, 9, 16]
+console.log(mapResult);
 
 function filter(iterable, predicate) {
     let iterator = iterable[Symbol.iterator]();
@@ -88,4 +92,6 @@ function filter(iterable, predicate) {
     };
 }
 
-[...filter(new Range(1, 10), (x) => x % 2 === 0)]; // => [2,4,6,8,10]
+const range1to10 = new Range(1, 10);
+const filterResult = [...filter(range1to10, (x) => x % 2 === 0)]; // => [2,4,6,8,10]
+console.log("🚀 ~ filterResult", filterResult);
