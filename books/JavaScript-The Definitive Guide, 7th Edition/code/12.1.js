@@ -95,3 +95,29 @@ function filter(iterable, predicate) {
 const range1to10 = new Range(1, 10);
 const filterResult = [...filter(range1to10, (x) => x % 2 === 0)]; // => [2,4,6,8,10]
 console.log("🚀 ~ filterResult", filterResult);
+
+function words(s) {
+    var r = /\s+|$/g; // 하나 이상의 공백이나 스트링의 끝
+    r.lastIndex = s.match(/[^ ]/).index; // 공백이 아닌 첫번째 위치(시작위치)
+    return {
+        // Return an iterable iterator object
+        [Symbol.iterator]() {
+            // This makes us iterable
+            return this;
+        },
+        next() {
+            // This makes us an iterator
+            let start = r.lastIndex; // Resume where the last match ended
+            if (start < s.length) {
+                // If we're not done
+                let match = r.exec(s); // Match the next word boundary
+                if (match) {
+                    // If we found one, return the word
+                    return { value: s.substring(start, match.index) };
+                }
+            }
+            return { done: true }; // Otherwise, say that we're done
+        },
+    };
+}
+[...words(" abc def ghi! ")]; // => ["abc", "def", "ghi!"]
