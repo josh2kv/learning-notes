@@ -10,6 +10,8 @@
 
 ## Articles
 
+-   [JavaScript Tutorial](articles/JavaScript-Tutorial) by **Unknown**, Unkown
+
 ## Videos
 
 -   [[Redux] - The Best Explanation of How it Works (Without React)](videos/[Redux]%20-%20The%20Best%20Explanation%20of%20How%20it%20Works) by **Stephen Grider**, 2018
