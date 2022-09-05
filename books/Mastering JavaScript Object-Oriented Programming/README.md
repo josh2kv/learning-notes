@@ -9,7 +9,7 @@
 ## Table of Contents
 
 1. A Refresher of Objects
-2. Diving into OOP Principles
+2. [Diving into OOP Principles](2.%20Diving%20into%20OOP%20Principles.md)
 3. [Working with Encapsulation and Information Hiding](./3.%20Working%20with%20Encapsulation%20and%20Information%20Hiding.md)
 4. Inheriting and Creating Mixins
 5. Defining Contracts with Duck Typing
