@@ -10,8 +10,9 @@
 
 ## Articles
 
--   [JavaScript Tutorial](articles/JavaScript-Tutorial) by **Unknown**, Unkown
+-   [JavaScript Tutorial](articles/JavaScript-Tutorial) by **Unknown**, 2022
 -   [PoiemaWeb](articles/PoiemaWeb) by **Ung-mo Lee**, 2021
+-   [Kent C. Dodds](articles/Kent%20C.%20Dodds) by **Kent C. Dodds**, 2022
 
 ## Videos
 
