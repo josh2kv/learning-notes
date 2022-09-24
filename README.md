@@ -13,6 +13,9 @@
 -   [JavaScript Tutorial](articles/JavaScript-Tutorial) by **Unknown**, 2022
 -   [PoiemaWeb](articles/PoiemaWeb) by **Ung-mo Lee**, 2021
 -   [Kent C. Dodds](articles/Kent%20C.%20Dodds) by **Kent C. Dodds**, 2022
+-   [Mark's Dev Blog](articles/Mark's%20Dev%20Blog) by **Mark Erikson**, 2017
+-   [The Rules of React](articles/The%20Rules%20of%20React.md) by **Sebastian Markbage**, 2018
+-   [Getting Closure on React Hooks](articles/Getting%20Closure%20on%20React%20Hooks.md) by **Shawn Wang**, 2019
 
 ## Videos
 
