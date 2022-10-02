@@ -1,5 +1,7 @@
 # Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior
 
+https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+
 -   What is "Rendering"?
     -   Rendering Process Overview
     -   Render and Commit Phases
@@ -45,7 +47,7 @@
 
     - 보통 JSX로 작성됨
     - JS가 compile되고 deployment를 위해 준비될 때 `React.createElement()` calls로 변환됨
-    - `createElement()`는 React *elements*를 return함
+    - `React.createElement()`는 React *elements*를 return함
     - **React Elements**: 성취하고자 하는(intended) UI의 구조를 묘사하는 **plain JS objects**
 
         ```javascript
