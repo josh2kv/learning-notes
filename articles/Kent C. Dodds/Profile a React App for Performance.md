@@ -6,6 +6,31 @@ https://kentcdodds.com/blog/profile-a-react-app-for-performance
 
 ---
 
+## Summary : performance test 할 때 주의할 점
+
+-   production mode에서 할 것
+-   cpu 성능을 낮춰서 할 것
+
+---
+
 ## Install the Extension
 
 ## Start the app
+
+## Start a profiling session
+
+## Explore the profiling data
+
+## Pitfall: Measuring development mode
+
+### Build and measure the production app
+
+### Update the webpack config for production-profiling
+
+### Profile the production-profiling build
+
+### Disable function name mangling
+
+## Pitfall: Profiling with a fast computer
+
+## Conclusion
