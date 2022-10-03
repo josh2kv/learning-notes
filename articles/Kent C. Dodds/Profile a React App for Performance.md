@@ -10,6 +10,7 @@ https://kentcdodds.com/blog/profile-a-react-app-for-performance
 
 -   production mode에서 할 것
 -   cpu 성능을 낮춰서 할 것
+-   React Profiler에 대해 자세히 알고 싶다면 [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 
 ---
 
