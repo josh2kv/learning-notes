@@ -2,7 +2,7 @@
 
 [https://kentcdodds.com/](https://kentcdodds.com/)
 
-![logo](https://res.cloudinary.com/kentcdodds-com/image/upload/w_900,q_auto,f_auto/kentcdodds.com/illustrations/kody-flying_red)
+<img src="https://res.cloudinary.com/kentcdodds-com/image/upload/w_900,q_auto,f_auto/kentcdodds.com/illustrations/kody-flying_red" alt="mark's dev blog logo" style="height:100px"/>
 
 ## Table of Contents
 

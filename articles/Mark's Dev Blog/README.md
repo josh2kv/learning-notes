@@ -2,7 +2,7 @@
 
 [https://blog.isquaredsoftware.com//](https://blog.isquaredsoftware.com/)
 
-![logo](https://blog.isquaredsoftware.com/images/simpsons-mark-head.png)
+<img src="https://blog.isquaredsoftware.com/images/simpsons-mark-head.png" alt="mark's dev blog logo" style="height:100px"/>
 
 ## Table of Contents
 

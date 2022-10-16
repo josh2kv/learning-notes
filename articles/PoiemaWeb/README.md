@@ -2,7 +2,7 @@
 
 [https://poiemaweb.com/](https://poiemaweb.com/)
 
-![logo](./img/poiemaweb-logo.png)
+<img src="./img/poiemaweb-logo.png" alt="poiemweb logo" style="height: 100px"/>
 
 ## Table of Contents
 

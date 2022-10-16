@@ -2,7 +2,7 @@
 
 [https://www.javascripttutorial.net](https://www.javascripttutorial.net)
 
-![logo](https://www.javascripttutorial.net/wp-content/uploads/2021/04/javascripttutorial.svg)
+<img src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/javascripttutorial.svg" alt="mark's dev blog logo" style="height:100px"/>
 
 ## Table of Contents
 
