@@ -13,7 +13,7 @@
 3. Types, Values, and Variables
 4. Expressions and Operators
 5. Statements
-6. Objects
+6. [Objects](6.%20Objects.md)
 7. Arrays
 8. Functions
 9. [Classes](9.%20Classes.md)
