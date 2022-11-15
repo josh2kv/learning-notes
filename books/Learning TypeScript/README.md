@@ -10,7 +10,7 @@
 
 I. Concepts
 
-1. From JavaScript to TypeScript
+1. [From JavaScript to TypeScript](1.%20From%20JavaScript%20to%20TypeScript.md)
 2. The Type System
 3. Unions and Literals
 4. Objects
