@@ -2,9 +2,9 @@
 
 ![book cover](https://learning.oreilly.com/library/cover/9781098110321/250w/)
 
--   저자: Josh Goldberg
--   출판년도: 2022년 7월
--   추가정보: [Amazon Link](https://a.co/d/1JxfUEE)
+- 저자: Josh Goldberg
+- 출판년도: 2022년 7월
+- 추가정보: [Amazon Link](https://a.co/d/1JxfUEE)
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ I. Concepts
 
 1. [From JavaScript to TypeScript](1.%20From%20JavaScript%20to%20TypeScript.md)
 2. [The Type System](2.%20The%20Type%20System.md)
-3. Unions and Literals
+3. [Unions and Literals](3.%20Unions%20and%20Literals.md)
 4. Objects
 
 II. Features
