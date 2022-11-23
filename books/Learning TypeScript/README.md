@@ -19,7 +19,7 @@ II. Features
 
 5. [Functions](5.%20Functions.md)
 6. [Arrays](6.%20Arrays.md)
-7. Interfaces
+7. [Interfaces](7.%20Interfaces.md)
 8. Classes
 9. Type Modifiers
 10. Generics
