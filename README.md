@@ -9,12 +9,15 @@
 - [A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition](books/A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms%2C%202nd%20Edition) by **Jay Wengrow**, 2020
 - [Learning TypeScript, 1st Edition](books/Learning%20TypeScript/) by **Josh Goldberg**, 2022
 
+## Websites
+
+- [JavaScript Tutorial](websites/JavaScript-Tutorial) by **Unknown**, 2022
+- [PoiemaWeb](websites/PoiemaWeb) by **Ung-mo Lee**, 2021
+- [Kent C. Dodds](websites/Kent%20C.%20Dodds) by **Kent C. Dodds**, 2022
+- [Mark's Dev Blog](websites/Mark's%20Dev%20Blog) by **Mark Erikson**, 2017
+
 ## Articles
 
-- [JavaScript Tutorial](articles/JavaScript-Tutorial) by **Unknown**, 2022
-- [PoiemaWeb](articles/PoiemaWeb) by **Ung-mo Lee**, 2021
-- [Kent C. Dodds](articles/Kent%20C.%20Dodds) by **Kent C. Dodds**, 2022
-- [Mark's Dev Blog](articles/Mark's%20Dev%20Blog) by **Mark Erikson**, 2017
 - [The Rules of React](articles/The%20Rules%20of%20React.md) by **Sebastian Markbage**, 2018
 - [Getting Closure on React Hooks](articles/Getting%20Closure%20on%20React%20Hooks.md) by **Shawn Wang**, 2019
 
