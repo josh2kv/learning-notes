@@ -8,6 +8,7 @@
 - [JavaScript: The Definitive Guide, 7th Edition](books/JavaScript-The%20Definitive%20Guide%2C%207th%20Edition) by **David Flanagan**, 2020
 - [A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition](books/A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms%2C%202nd%20Edition) by **Jay Wengrow**, 2020
 - [Learning TypeScript, 1st Edition](books/Learning%20TypeScript/) by **Josh Goldberg**, 2022
+- [Canvas Pocket Reference](books/Canvas%20Pocket%20Reference/) by **David Flanagan**, 2010
 
 ## Websites
 
