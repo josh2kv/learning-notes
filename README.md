@@ -12,10 +12,11 @@
 
 ## Websites
 
-- [JavaScript Tutorial](websites/JavaScript-Tutorial) by **Unknown**, 2022
-- [PoiemaWeb](websites/PoiemaWeb) by **Ung-mo Lee**, 2021
-- [Kent C. Dodds](websites/Kent%20C.%20Dodds) by **Kent C. Dodds**, 2022
-- [Mark's Dev Blog](websites/Mark's%20Dev%20Blog) by **Mark Erikson**, 2017
+- [JavaScript Tutorial](websites/JavaScript-Tutorial) by **Unknown**
+- [PoiemaWeb](websites/PoiemaWeb) by **Ung-mo Lee**
+- [Kent C. Dodds](websites/Kent%20C.%20Dodds) by **Kent C. Dodds**
+- [Mark's Dev Blog](websites/Mark's%20Dev%20Blog) by **Mark Erikson**
+- [MDM Web Docs > Canvas API](websites/MDN%20Web%20Docs/Canvas%20API) by **Mozilla**
 
 ## Articles
 
