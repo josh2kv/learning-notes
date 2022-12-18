@@ -1,6 +1,6 @@
 # Canvas API
 
-[https://blog.isquaredsoftware.com//](https://blog.isquaredsoftware.com/)
+[https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/MDN_Web_Docs_full_logo.svg" alt="MDN Web Docs" style="height:100px"/>
 
