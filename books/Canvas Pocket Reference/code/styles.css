@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-size: 50px 50px;
+    background-image: linear-gradient(to right, #dfdfdf 1px, transparent 1px),
+        linear-gradient(to bottom, #dfdfdf 1px, transparent 1px);
+}
+
+canvas {
+    border: 1px dashed gray;
+}
