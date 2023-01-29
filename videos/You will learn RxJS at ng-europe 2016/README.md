@@ -1,6 +1,6 @@
 # André Staltz (@andrestaltz): You will learn RxJS at ng-europe 2016
 
-### RxJS의 작동원리를 observable을 직접 만들어보며 설명함
+### RxJS의 작동원리를 observable을 처음부터 만들어보며 설명함
 
 ![thumbnail](https://img.youtube.com/vi/uQ1zhJHclvs/maxresdefault.jpg)
 
@@ -11,15 +11,15 @@
 
 ---
 
-- RxJS는 다양한 callback function듣의 collection
+- RxJS는 다양한 callback function들의 collection
 
 ## Callback Functions
 
-- callback function은 asynchronous programming이 아님(callback은 sync or async 둘다 가능)
+- callback function은 asynchronous programming의 전유물이 아님(callback은 sync or async 둘다 가능)
 
   ```js
   // cb function은 synchronous로 작동함
-  const arr = [10, 20,30,40,50,60]
+  const arr = [10, 20,30, 40, 50, 60]
 
   console.log('before');
   arr.forEach(function cb(x) {
@@ -85,7 +85,7 @@
   }
 
   function giveMeSomeData(nextCB, errorCB, completeCB) {
-    // 3가지 케이스 모두 사용가능
+    // 이 callback bundle은 3가지 케이스에 모두 사용가능
     // document.addEventListener('click', nextCB);
     // fetch(url).then(nextCB, errorCB);
     [10, 20, 30].forEach(nextCB);
@@ -124,7 +124,7 @@
 
   ```js
   const observable = {
-    // subscribe: 데이터를 주세요. 내가 받은 callback함수 bundle로 처리해줄게요.
+    // subscribe: 데이터를 주세요. 내가 받은 callback bundle(observer)로 처리해줄게요.
     subscribe: function subscribe(ob) {
       [10, 20, 30].forEach(ob.next);
       ob.complete();
