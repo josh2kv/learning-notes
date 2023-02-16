@@ -12,6 +12,7 @@
 
 ## Websites
 
+- [Patterns](https://www.patterns.dev/) by **Addy Osmani** and **Lydia Hallie**
 - [JavaScript Tutorial](websites/JavaScript-Tutorial) by **Unknown**
 - [PoiemaWeb](websites/PoiemaWeb) by **Ung-mo Lee**
 - [Kent C. Dodds](websites/Kent%20C.%20Dodds) by **Kent C. Dodds**
