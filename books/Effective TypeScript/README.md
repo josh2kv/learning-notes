@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
-1. Getting to Know TypeScript
+1. [Getting to Know TypeScript](1.%20Getting%20to%20Know%20TypeScript.md)
    - Item 1: Understand the Relationship Between TypeScript and JavaScript
    - Item 2: Know Which TypeScript Options You’re Using
    - Item 3: Understand That Code Generation Is Independent of Types
    - Item 4: Get Comfortable with Structural Typing
    - Item 5: Limit Use of the any Type
-2. TypeScript’s Type System
+1. TypeScript’s Type System
     - Item 6: Use Your Editor to Interrogate and Explore the Type System
     - Item 7: Think of Types as Sets of Values
     - Item 8: Know How to Tell Whether a Symbol Is in the Type Space or Value Space
