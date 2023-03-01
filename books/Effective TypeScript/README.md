@@ -14,7 +14,7 @@
    - Item 3: Understand That Code Generation Is Independent of Types
    - Item 4: Get Comfortable with Structural Typing
    - Item 5: Limit Use of the any Type
-1. TypeScript’s Type System
+1. [TypeScript’s Type System](2.%20TypeScript’s%20Type%20System.md)
     - Item 6: Use Your Editor to Interrogate and Explore the Type System
     - Item 7: Think of Types as Sets of Values
     - Item 8: Know How to Tell Whether a Symbol Is in the Type Space or Value Space
