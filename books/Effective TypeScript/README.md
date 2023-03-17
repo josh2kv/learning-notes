@@ -28,7 +28,7 @@
     - Item 16: Prefer Arrays, Tuples, and ArrayLike to number Index Signatures
     - Item 17: Use readonly to Avoid Errors Associated with Mutation
     - Item 18: Use Mapped Types to Keep Values in Sync
-1. Type Inference
+1. [Type Inference](3.%20Type%20Inference.md)
     - Item 19: Avoid Cluttering Your Code with Inferable Types
     - Item 20: Use Different Variables for Different Types
     - Item 21: Understand Type Widening
