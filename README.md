@@ -1,6 +1,7 @@
 # Learning Notes
 
 공부 중 정리하여 기억해야할 것 같은 것들을 모아두는 공간
+
 🌱: what I'm currently learning
 
 ## 1. Books
