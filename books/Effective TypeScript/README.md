@@ -38,7 +38,7 @@
     - Item 25: Use async Functions Instead of Callbacks for Asynchronous Code
     - Item 26: Understand How Context Is Used in Type Inference
     - Item 27: Use Functional Constructs and Libraries to Help Types Flow
-1. Type Design
+1. [Type Design](4.%20Type%20Design.md)
     - Item 28: Prefer Types That Always Represent Valid States
     - Item 29: Be Liberal in What You Accept and Strict in What You Produce
     - Item 30: Don’t Repeat Type Information in Documentation
