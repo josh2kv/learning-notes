@@ -8,7 +8,7 @@
 
   1. [Mastering JavaScript Object-Oriented Programming](books/Mastering%20JavaScript%20Object-Oriented%20Programming) by **Andrea Chiarelli**, 2016
   1. [JavaScript: The Definitive Guide, 7th Edition](books/JavaScript-The%20Definitive%20Guide%2C%207th%20Edition) by **David Flanagan**, 2020
-  1. [A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition](books/A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms%2C%202nd%20Edition) by **Jay Wengrow**, 2020
+  1. [A Common-Sense Guide to Data Structures and Algorithms, 2nd Edition](books/A%20Common-Sense%20Guide%20to%20Data%20Structures%20and%20Algorithms%2C%202nd%20Edition) by **Jay Wengrow**, 2020 🌱
   1. [Learning TypeScript, 1st Edition](books/Learning%20TypeScript/) by **Josh Goldberg**, 2022
   1. [Canvas Pocket Reference](books/Canvas%20Pocket%20Reference/) by **David Flanagan**, 2010
   1. [Effective TypeScript, 1st Edition](books/Effective%20TypeScript/) by **Dan Vanderkam**, 2019 🌱
@@ -20,7 +20,7 @@
 1. [JavaScript Tutorial](websites/JavaScript-Tutorial) by **Unknown**
 1. [PoiemaWeb](websites/PoiemaWeb) by **Ung-mo Lee**
 1. [MDM Web Docs > Canvas API](websites/MDN%20Web%20Docs/Canvas%20API) by **Mozilla**
-1. [Patterns](websites/Petterns) by **Lydia Hallie** and **Addy Osmani** 🌱
+1. [Patterns](websites/Petterns) by **Lydia Hallie** and **Addy Osmani**
 
 ## 3. Articles
 
