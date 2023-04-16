@@ -2,15 +2,15 @@
 
 ![book cover](https://m.media-amazon.com/images/P/1680507222.01._SCLZZZZZZZ_SX500_.jpg)
 
--   저자 : Jay Wengrow
--   출판년도: 2020년 9월
--   추가정보: [Amazon Link](https://www.amazon.com/dp/1680507222/ref=cm_sw_r_tw_dp_HE9BZAP5JDYTHGEKKYB7)
+- 저자 : Jay Wengrow
+- 출판년도: 2020년 9월
+- 추가정보: [Amazon Link](https://www.amazon.com/dp/1680507222/ref=cm_sw_r_tw_dp_HE9BZAP5JDYTHGEKKYB7)
 
 ## Table of Contents
 
-1. Why Data Structures Matter
-2. Why Algorithms Matter
-3. O Yes! Big O Notation
+1. [Why Data Structures Matter](1.%20Why%20Data%20Structures%20Matter.md)
+2. [Why Algorithms Matter](2.%20Why%20Algorithms%20Matter.md)
+3. [O Yes! Big O Notation](3.%20O%20Yes!%20Big%20O%20Notation.md)
 4. Speeding Up Your Code with Big O
 5. Optimizing Code with and Without Big O
 6. Optimizing for Optimistic Scenarios

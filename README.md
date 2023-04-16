@@ -12,6 +12,7 @@
   1. [Learning TypeScript, 1st Edition](books/Learning%20TypeScript/) by **Josh Goldberg**, 2022
   1. [Canvas Pocket Reference](books/Canvas%20Pocket%20Reference/) by **David Flanagan**, 2010
   1. [Effective TypeScript, 1st Edition](books/Effective%20TypeScript/) by **Dan Vanderkam**, 2019 🌱
+  1. [Grokking Algorithms, 1st Edition](books/Grokking%20Algorithms/) by **Aditya Bhargav**, 2016
 
 ## 2. Websites
 
