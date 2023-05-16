@@ -32,3 +32,4 @@
 
 1. [[Redux] - The Best Explanation of How it Works (Without React)](videos/[Redux]%20-%20The%20Best%20Explanation%20of%20How%20it%20Works) by **Stephen Grider**, 2018
 1. [You will learn RxJS at ng-europe 2016](videos/You%20will%20learn%20RxJS%20at%20ng-europe%202016/) by **André Staltz**, 2016
+1. [Deconstructing React || Tejas Kumar](videos/Deconstructing%20React%20-%20Tejas%20Kumar/) by **Tejas Kumar**, 2020
